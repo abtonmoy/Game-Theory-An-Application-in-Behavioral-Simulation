@@ -1,4 +1,4 @@
 # Game-Theory-An-Application-in-Behavioral-Simulation
-** Abstract
+*** Abstract
 
 Our project explores interactions of game theory-based strategies among virtual creatures competing for food resources through simulations. We examine three primary strategies: cooperative Doves that share resources equally, competitive Hawks that aggressively monopolize food, and newly introduced social Vultures that thrive in groups but perish alone. The simulation varies encounters between these strategies, observing survival and reproduction outcomes under different conditions. Modifications to the payoff matrix alter the creatures' survival probabilities when conflicting with one another. Our results demonstrate how cooperative versus competitive behaviors impact populations, showcasing an application of game theory and stochastic simulation within an ecological simulation model.
